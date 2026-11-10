@@ -27,10 +27,12 @@ I help AI teams make their models better. I write challenging prompts, rank and 
 
 ### 🚀 Projects
 
-* **[LLM Evaluation Portfolio](https://github.com/fayyaz786/llm_evaluation_portfolio):** ✅ live, public evaluation samples with rubrics, fact checks and rewritten answers
-* **Bilingual AI Evaluation Set** (coming soon): Arabic and English prompts with notes on where models go wrong
-* **Rubric Scoring Tool** (coming soon): a Python tool that scores model responses from a CSV and exports a report
-* **RAG Q&A Demo** (coming soon): a retrieval based chatbot over public documents, with a quality comparison
+| Project | What it shows |
+|---|---|
+| [**LLM Evaluation Portfolio**](https://github.com/fayyaz786/llm_evaluation_portfolio) | Side by side ranking, rubric scoring, fact checking and gold standard rewrites |
+| [**Bilingual AI Evaluation Set**](https://github.com/fayyaz786/bilingual_ai_eval_set) | Arabic and English cases: idioms, gender agreement, number errors, dropped negation, register and facts |
+| [**Rubric Scoring Tool**](https://github.com/fayyaz786/rubric_scoring_tool) | Python tool that totals scores, applies a severity first preference rule and checks prompt constraints |
+| [**RAG Q&A Demo**](https://github.com/fayyaz786/rag_qa_demo) | Retrieval based Q&A in pure Python, with refusal tests and an honest failure analysis |
 
 ### 🛠️ Tools and skills
 
