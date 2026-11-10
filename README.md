@@ -63,4 +63,4 @@ English (Fluent) · Urdu (Native) · Arabic (Conversational)
 
 Open to AI training, LLM evaluation and prompt engineering projects.
 
-[**Portfolio**](https://fayyazshahid.com) &nbsp;·&nbsp; [**Email me**](mailto:fayyaz.shahid.lse@gmail.com)
+[**Hire me on Upwork**](https://www.upwork.com/freelancers/~01b0b9c69d62c91200) &nbsp;·&nbsp; [**Connect on LinkedIn**](https://www.linkedin.com/in/fayyazshahid) &nbsp;·&nbsp; [**Portfolio**](https://fayyazshahid.com) &nbsp;·&nbsp; [**Watch my intro video**](https://www.youtube.com/watch?v=eAuM9O71m8U)
