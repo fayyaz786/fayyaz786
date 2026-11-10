@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Fayyaz Shahid 👋
 
-<!--
-**fayyaz786/fayyaz786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Trainer and LLM Response Evaluator | Prompt Engineering | RLHF
 
-Here are some ideas to get you started:
+I help AI teams make their models better. I write challenging prompts, rank and score model responses against detailed rubrics, fact check every claim and rewrite flawed answers into gold standard reference responses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Riyadh, Saudi Arabia &nbsp;·&nbsp; 🌐 [fayyazshahid.com](https://fayyazshahid.com) &nbsp;·&nbsp; 📫 fayyaz.shahid.lse@gmail.com
+
+---
+
+### 🧠 What I do
+
+| Area | What it looks like |
+|---|---|
+| **Prompt design** | Multistep and adversarial prompts that test reasoning, instruction following and factual accuracy |
+| **Response ranking** | Side by side comparisons with a clear, defensible preference |
+| **Rubric scoring** | Accuracy, completeness, clarity, tone, instruction following and safety |
+| **Fact checking** | Hallucination detection, source verification, calculation and reasoning error spotting |
+| **Written justifications** | Concise, structured rationales that follow project guidelines exactly |
+| **Response rewriting** | Turning weak answers into gold standard reference responses |
+
+### 💼 Current work
+
+* **AI Trainer** at micro1
+* **AI Evaluation Contractor** at Mercor
+* **Reporting Lead and Executive Presentation Specialist** at Saudi Telecom Company (STC), with 15+ years of executive reporting for senior leadership
+
+### 🚀 Projects in progress
+
+* **LLM Evaluation Portfolio:** public evaluation samples with rubrics, fact checks and rewritten answers
+* **Bilingual AI Evaluation Set:** Arabic and English prompts with notes on where models go wrong
+* **Rubric Scoring Tool:** a Python tool that scores model responses from a CSV and exports a report
+* **RAG Q&A Demo:** a retrieval based chatbot over public documents, with a quality comparison
+
+### 🛠️ Tools and skills
+
+**AI:** ChatGPT · Claude · Gemini · Local LLMs (LM Studio) · RAG · Prompt Engineering
+
+**Data and code:** Python · Flask · Power BI · Excel · HTML/CSS · Git
+
+**Design:** PowerPoint · Figma · Adobe Illustrator · Adobe Photoshop
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,git,github,figma,ps,ai" alt="Tools" />
+</p>
+
+### 🎓 Education and certifications
+
+* BSc (Hons) Computer Science (Engineering), PUCIT Lahore
+* Microsoft Certified: Azure Data Scientist Associate
+* Microsoft Certified: Azure Administrator Associate
+* Microsoft Power BI: Analyzing and Visualizing Data
+* Lean Six Sigma Black Belt and Green Belt (IASSC)
+* Google Foundations of Business Intelligence
+
+### 🌍 Languages
+
+English (Fluent) · Urdu (Native) · Arabic (Conversational)
+
+---
+
+### 🤝 Let's work together
+
+Open to AI training, LLM evaluation and prompt engineering projects.
+
+[**Portfolio**](https://fayyazshahid.com) &nbsp;·&nbsp; [**Email me**](mailto:fayyaz.shahid.lse@gmail.com)
