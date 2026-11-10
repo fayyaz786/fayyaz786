@@ -25,12 +25,12 @@ I help AI teams make their models better. I write challenging prompts, rank and 
 * **AI Evaluation Contractor** at Mercor
 * **Reporting Lead and Executive Presentation Specialist** at Saudi Telecom Company (STC), with 15+ years of executive reporting for senior leadership
 
-### 🚀 Projects in progress
+### 🚀 Projects
 
-* **LLM Evaluation Portfolio:** public evaluation samples with rubrics, fact checks and rewritten answers
-* **Bilingual AI Evaluation Set:** Arabic and English prompts with notes on where models go wrong
-* **Rubric Scoring Tool:** a Python tool that scores model responses from a CSV and exports a report
-* **RAG Q&A Demo:** a retrieval based chatbot over public documents, with a quality comparison
+* **[LLM Evaluation Portfolio](https://github.com/fayyaz786/llm_evaluation_portfolio):** ✅ live, public evaluation samples with rubrics, fact checks and rewritten answers
+* **Bilingual AI Evaluation Set** (coming soon): Arabic and English prompts with notes on where models go wrong
+* **Rubric Scoring Tool** (coming soon): a Python tool that scores model responses from a CSV and exports a report
+* **RAG Q&A Demo** (coming soon): a retrieval based chatbot over public documents, with a quality comparison
 
 ### 🛠️ Tools and skills
 
